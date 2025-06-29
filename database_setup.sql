@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS bill (
 
 -- Insert default admin user
 INSERT INTO appuser (userRole, name, dob, mobileNumber, email, username, password, address) 
-VALUES ('Admin', 'Rishabh', '15-03-2005', '8928044562', 'rishabh@gmail.com', 'admin', 'admin', 'India')
+VALUES ('Admin', 'Abhishekh', '15-03-2005', '8928044562', 'abhishekh@gmail.com', 'admin', 'admin', 'India')
 ON DUPLICATE KEY UPDATE username = username;
 
 -- Display confirmation

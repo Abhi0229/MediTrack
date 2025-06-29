@@ -110,6 +110,56 @@ For support and questions, please open an issue in the GitHub repository.
 
 ---
 
-**Developed by**: Rishabh  
+**Developed by**: Abhishekh  
 **Version**: 1.0  
-**Last Updated**: 2024 
+**Last Updated**: 2024
+
+## Upload to GitHub
+
+To upload your project to GitHub, follow these steps:
+
+### **Step 1: Get Your GitHub Username**
+
+First, you need to know your GitHub username. You can find this by:
+1. Going to GitHub.com and signing in
+2. Looking at the top-right corner - your username will be displayed there
+3. Or check your profile URL: `https://github.com/YOUR_USERNAME`
+
+### **Step 2: Create GitHub Repository**
+
+1. **Go to GitHub.com** and sign in
+2. **Click the "+" icon** in the top right corner
+3. **Select "New repository"**
+4. **Fill in these details**:
+   - **Repository name**: `MediTrack`
+   - **Description**: `A comprehensive Java Swing application for pharmacy management system`
+   - **Make it Public** (or Private if you prefer)
+   - **Don't initialize** with README, .gitignore, or license (we already have these)
+5. **Click "Create repository"**
+
+### **Step 3: Run the Upload Commands**
+
+Once you have your GitHub username, run these commands in your terminal:
+
+```bash
+# Replace YOUR_USERNAME with your actual GitHub username
+git remote add origin https://github.com/YOUR_USERNAME/MediTrack.git
+
+# Push your code to GitHub
+git branch -M main
+git push -u origin main
+```
+
+### **Alternative: I can help you run the commands**
+
+If you provide me with your GitHub username, I can run the commands for you. Just tell me your GitHub username and I'll execute the upload commands.
+
+### **What happens after upload:**
+
+✅ Your repository will be live at: `https://github.com/YOUR_USERNAME/MediTrack`  
+✅ All 64 files will be uploaded  
+✅ Professional README will be displayed  
+✅ Database setup script will be available  
+✅ MIT license will be included  
+
+**Just let me know your GitHub username and I'll complete the upload for you!** 🚀
