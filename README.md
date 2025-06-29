@@ -110,7 +110,7 @@ For support and questions, please open an issue in the GitHub repository.
 
 ---
 
-**Developed by**: Abhishekh  
+**Developed by**: Abhishekh Yadav  
 **Version**: 1.0  
 **Last Updated**: 2024
 
