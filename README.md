@@ -93,7 +93,7 @@ MediTrack/
    - Process sales and generate bills
    - View medicine details
 
-## Contributing
+## Contributer
 
 ### Abhishekh Yadav
 
