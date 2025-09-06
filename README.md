@@ -96,6 +96,7 @@ MediTrack/
 ## Contributer
 
 ### Abhishekh Yadav
+### Rishabh Tripathi
 
 ## License
 
